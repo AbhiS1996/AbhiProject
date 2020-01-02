@@ -1,19 +1,4 @@
 {
   "name": "gitbackupproject",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AbhiS1996/AbhiProject.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AbhiS1996/AbhiProject/issues"
-  },
-  "homepage": "https://github.com/AbhiS1996/AbhiProject#readme"
+  "version": "1.0.0"
 }
